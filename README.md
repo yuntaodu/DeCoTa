@@ -50,3 +50,19 @@ Example to evaluate a saved model at iteration 20000 from ```./checkpoint```, fr
 python main.py --root PATH-TO-DATASET-ROOT/ --st 1 --eval --net_resume Net_iter_model_mico_real_to_clipart_step_20000.pth.tar
 ```
 
+
+
+
+# TL_seminar
+
+|No.| Time| Title|
+|  ----  | ----  | ----|
+|Week 1|2021.11.12| Domain adaptation via transfer component analysis|
+|Week 2|2021.11.19| Transfer feature learning with joint distribution adaptation|
+|Week 3|2021.11.26| 1. How transferable are features in deep neural networks? <br> 2. Learning transferable features with deep adaptation networks|
+|Week 4|2021.12.2|Analysis of representations for domain adaptation|
+|Week 5|2021.12.9|Unsupervised domain adaptation by backpropagation|
+|Week 6|2021.12.16|Maximum classifier discrepancy for unsupervised domain adaptation|
+
+
+
